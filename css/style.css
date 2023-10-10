@@ -607,6 +607,6 @@ body {
 		font-size: 14px;
 	}
 	.price_item_old_after{
-		border-top: 71px solid var(--main-color-hover);
+		border-top: 70px solid var(--main-color-hover);
 	}
 }
